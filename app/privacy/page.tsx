@@ -160,7 +160,6 @@ export default function PrivacyPage() {
               </p>
               <ul className="list-none text-gray-700 mb-4">
                 <li>Email: privacy@finbloom.com</li>
-                <li>Address: [Your Company Address]</li>
               </ul>
             </section>
           </div>
